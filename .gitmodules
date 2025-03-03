@@ -1,0 +1,3 @@
+[submodule "workshopIII"]
+	path = workshopIII
+	url = git@github.com-georgegoldman:georgegoldman/socsc_workshop_i.git
