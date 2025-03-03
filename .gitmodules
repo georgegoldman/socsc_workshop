@@ -1,0 +1,12 @@
+[submodule "socsc_workshop_i"]
+	path = socsc_workshop_i
+	url = https://github.com/georgegoldman/socsc_workshop_i.git
+[submodule "socsc_workshop_ii"]
+	path = socsc_workshop_ii
+	url = https://github.com/georgegoldman/socsc_workshop_ii.git
+[submodule "socsc_workshop_iii"]
+	path = socsc_workshop_iii
+	url = https://github.com/georgegoldman/socsc_workshop_iii.git
+[submodule "socsc_workshop_iv"]
+	path = socsc_workshop_iv
+	url = https://github.com/georgegoldman/socsc_workshop_iv.git
