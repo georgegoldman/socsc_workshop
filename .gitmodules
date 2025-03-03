@@ -1,9 +1,0 @@
-[submodule "workshopIII"]
-	path = workshopIII
-	url = git@github.com-georgegoldman:georgegoldman/socsc_workshop_i.git
-[submodule "workshop_v"]
-	path = workshop_v
-	url = git@github.com-georgegoldman:georgegoldman/socsc_workshop_i.git
-[submodule "workshop_vi"]
-	path = workshop_vi
-	url = git@github.com-georgegoldman:georgegoldman/socsc_workshop_i.git
